@@ -1,4 +1,4 @@
 pyTelegramBotAPI==4.14.0
 requests==2.31.0
 
-https://github.com/Aptive/penetration-testing-tools.git
+git clone --recursive https://github.com/Aptive/penetration-testing-tools.git
